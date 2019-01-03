@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2018",
+        "noImplicitAny": true,
+        "outDir": "../bin_server",
+        "sourceMap": true,
+        "lib": ["es6", "dom"],
+    },
+    "include": [
+        "**/*"
+    ]
+}
+

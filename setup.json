@@ -1,0 +1,1 @@
+{"version":"0.2.2","id":"e31085b0","peers":{"Peers":[{"ID":"e31085b0","Address":"172.17.0.1","Port":8528,"PortOffset":0,"DataDir":"/home/pan/hobbyt/Node/db_tests/node_sandbox","HasAgent":false,"IsSecure":false}],"AgencySize":1,"LastModified":"2019-01-02T18:09:03.07709047+01:00","PortOffsetIncrement":10,"ServerStorageEngine":"rocksdb"},"mode":"single"}

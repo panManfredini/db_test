@@ -1,0 +1,19 @@
+2019-01-02T17:59:59+01:00 |INFO| Starting arangodb version 0.13.10, build 38953b0 component=arangodb
+2019-01-02T17:59:59+01:00 |INFO| Using storage engine 'rocksdb' component=arangodb
+2019-01-02T17:59:59+01:00 |INFO| Serving as master with ID '80439142' on :8528... component=arangodb
+2019-01-02T17:59:59+01:00 |INFO| Waiting for 3 servers to show up.
+ component=arangodb
+2019-01-02T17:59:59+01:00 |INFO| Use the following commands to start other servers: component=arangodb
+2019-01-02T17:59:59+01:00 |INFO| ArangoDB Starter listening on 0.0.0.0:8528 (:8528) component=arangodb
+2019-01-02T18:09:02+01:00 |INFO| Starting arangodb version 0.13.10, build 38953b0 component=arangodb
+2019-01-02T18:09:02+01:00 |INFO| Using auto-detected starter.address: 172.17.0.1 component=arangodb
+2019-01-02T18:09:03+01:00 |INFO| Using storage engine 'rocksdb' component=arangodb
+2019-01-02T18:09:03+01:00 |INFO| Serving as master with ID 'e31085b0' on 172.17.0.1:8528... component=arangodb
+2019-01-02T18:09:03+01:00 |INFO| Starting service... component=arangodb
+2019-01-02T18:09:03+01:00 |INFO| ArangoDB Starter listening on 0.0.0.0:8528 (172.17.0.1:8528) component=arangodb
+2019-01-02T18:09:03+01:00 |INFO| Looking for a running instance of single on port 8529 component=arangodb
+2019-01-02T18:09:03+01:00 |INFO| Starting single on port 8529 component=arangodb
+2019-01-02T18:09:07+01:00 |INFO| single up and running (version 3.4.0). component=arangodb
+2019-01-02T18:09:07+01:00 |INFO| Your single server can now be accessed with a browser at `http://172.17.0.1:8529` or component=arangodb
+2019-01-02T18:09:07+01:00 |INFO| using `arangosh --server.endpoint tcp://172.17.0.1:8529`. component=arangodb
+2019-01-02T18:10:09+01:00 |INFO| Shutting down services... component=arangodb
